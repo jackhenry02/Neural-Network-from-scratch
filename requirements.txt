@@ -1,7 +1,6 @@
 numpy
 matplotlib
 scikit-learn
-sklearn
 openml
 scipy
 ipykernel
